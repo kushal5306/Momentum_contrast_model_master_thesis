@@ -17,7 +17,7 @@ Data Utilization**
 - [Stages in Azure](#stagesinazure)
 - [Classifier](#classifier)
 - [Code](#code)
-- [Results & Evaluation](#results)
+- [Results & Evaluation](#Results-and-Evaluation)
 - [Conclusion](#conclusion)
 - [Future Directions and Enhancements](#future-work)
 
