@@ -12,7 +12,7 @@ Data Utilization**
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Implementation Strategy](#implementationstrategy)
+- [Implementation Strategy](#implementation-Strategy)
 - [What is Momentum Contrast Model?](#quickstart)
 - [Stages in Azure](#stagesinazure)
 - [Classifier](#classifier)
@@ -214,8 +214,8 @@ In the evaluation phase:
 The **evaluation metrics** and other aspects of both models remain the same, ensuring a consistent comparison between the two approaches.
 
 ## Code
-Code files for the above mentioned script cannot be provided in this repository as it is the property of Geberit Gmbh. However to test the working of MoCo a jupyter notebook is provided in the code section of this repository. The code is based on this notebook as well. It is developed by 
-AI lighty and highly useful repository for self-supervised training research.
+Code files for the above mentioned script cannot be provided in this repository as it is the property of Geberit Gmbh. However, to test the working of MoCo a jupyter notebook is provided in the code section of this repository. The code is based on this notebook as well. It is developed by 
+AI lightly (https://docs.lightly.ai/self-supervised-learning/tutorials/package/tutorial_moco_memory_bank.html) and a highly useful repository for self-supervised training research.
 
 ## Results and Evaluation
 
