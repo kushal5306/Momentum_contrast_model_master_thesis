@@ -13,13 +13,13 @@ Data Utilization**
 - [Introduction](#introduction)
 - [Features](#features)
 - [Implementation Strategy](#implementation-Strategy)
-- [What is Momentum Contrast Model?](#quickstart)
-- [Stages in Azure](#stagesinazure)
+- [What is Momentum Contrast Model?](#What-is-Momentum-Contrast-Model)
+- [Stages in Azure](#Stages-in-Azure)
 - [Classifier](#classifier)
 - [Code](#code)
 - [Results & Evaluation](#Results-and-Evaluation)
 - [Conclusion](#conclusion)
-- [Future Directions and Enhancements](#future-work)
+- [Future Directions and Enhancements](#Future-Directions-and-Enhancements)
 
 
 
